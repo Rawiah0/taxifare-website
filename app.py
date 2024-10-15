@@ -73,6 +73,7 @@ params = {
     "passenger_count": passenger_count
 }
 
+# map step😃
 df = pd.DataFrame(
 [[pickup_latitude,pickup_longitude],
  [dropoff_latitude,dropoff_longitude]],
